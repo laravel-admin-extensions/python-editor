@@ -1,6 +1,8 @@
 Python editor extension for laravel-admin based on code-mirror
 ======
 
+[DEMO](http://demo.laravel-admin.org/code-mirror/python) (Login using `admin/admin`)
+
 ## Installation 
 
 ```bash
